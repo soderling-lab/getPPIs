@@ -1,0 +1,15 @@
+Package: getPPIs
+Title: get protein-protein interactions (PPIs)
+Version: 0.0.0.1000
+Authors@R:
+    person(given = "Tyler",
+           family = "Bradshaw",
+           role = c("aut", "cre"),
+           email = "twesleyb10@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: A human and mouse protein-protein interaction dataset from HitPredict.
+License: GNU V3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Import: AnnotationDbi, BiocManager, data.table, dplyr, ontologyIndex, rvest, xml2
