@@ -51,7 +51,7 @@ adjm <- as.matrix(A)
 # save this and cluster it with the leiden alg!
 
 # to preserve rownames we must convert to data.table before saving with fread
-a = as.data.table(adjm, keep.rownames="Protein")
+a <- as.data.table(adjm, keep.rownames="Protein")
 head(colnames(a))
 
 # be careful, adjacency matrices can be heavy!
