@@ -1,5 +1,7 @@
 #' musInteractome data
 #'
+#' @name musInteractome
+#'
 #' @docType data
 #'
 #' @usage data("musInteractome")

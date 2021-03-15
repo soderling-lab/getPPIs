@@ -1,5 +1,7 @@
 #' hsInteractome data
 #'
+#' @name hsInteractome
+#'
 #' @docType data
 #'
 #' @usage data("hsInteractome")
