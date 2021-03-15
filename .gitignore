@@ -11,3 +11,4 @@ renv/
 pyenv/
 ARCHIVE/
 .Rprofile
+rdata/
