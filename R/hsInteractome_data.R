@@ -14,3 +14,4 @@
 #'
 #' @examples
 #' data("hsInteractome") # load HitPredict human PPIs
+NULL

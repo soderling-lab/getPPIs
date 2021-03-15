@@ -14,3 +14,4 @@
 #'
 #' @examples
 #' data("musInteractome") # load HitPredict (human) PPIs mapped to mouse entrez
+NULL
